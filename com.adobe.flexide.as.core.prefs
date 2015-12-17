@@ -1,0 +1,35 @@
+#Sat Oct 17 00:02:28 JST 2015
+com.adobe.flexide.as.core.filetemplates.=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+com.adobe.flexide.as.core.codetemplates.generated.=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+asASDocColor=\#2CFBC8
+asReservedBold=false
+asVarBold=false
+asMetadataUnderline=false
+asOperatorColor=\#FFFFFF
+asCycling=[cycle.templates,true,2][cycle.variables,true,3][cycle.functions,true,4][cycle.class,true,5][cycle.package,true,6][cycle.namespaces,true,7]
+asMetadataColor=\#FFFFFF
+asVarColor=\#FB42D2
+asClassColor=\#FB42D2
+asBracketUnderline=false
+asClassItalic=false
+asPackageColor=\#FB42D2
+asFunctionBold=false
+asTraceColor=\#F0FF00
+eclipse.preferences.version=1
+asBracketColor=\#FFFFFF
+asClassUnderline=false
+asInterfaceBold=false
+asCommentItalic=false
+asStringBold=false
+asReservedColor=\#009CFF
+asBracketBold=false
+asTextColor=\#FFFFFF
+asClassBold=false
+asCommentColor=\#2CFBC8
+com.adobe.flexide.as.core.codetemplates.=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+asStringColor=\#F8B472
+asPackageBold=false
+asCommentBold=false
+asInterfaceColor=\#FB42D2
+asMetadataItalic=true
+asFunctionColor=\#FB42D2

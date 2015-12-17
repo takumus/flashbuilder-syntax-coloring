@@ -1,0 +1,26 @@
+#Sun Oct 11 09:24:49 JST 2015
+showLeadingIdeographicSpaces=false
+showEnclosedIdeographicSpaces=false
+showLeadingSpaces=false
+AbstractTextEditor.Color.Background=41,41,41
+textDragAndDropEnabled=false
+showTrailingIdeographicSpaces=false
+asOccurencesTextStyle=NONE
+hyperlinkColor=255,128,128
+eclipse.preferences.version=1
+showEnclosedSpaces=false
+hyperlinkColor.SystemDefault=false
+showLineFeed=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+showCarriageReturn=false
+AbstractTextEditor.Color.Foreground=255,255,255
+AbstractTextEditor.Color.SelectionBackground=128,0,255
+overviewRuler_migration=migrated_3.1
+showTrailingSpaces=false
+lineNumberRuler=true
+asOccurencesIndicationColor=138,0,138
+currentLineColor=0,0,0
+showWhitespaceCharacters=true
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
