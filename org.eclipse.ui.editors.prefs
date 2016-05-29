@@ -1,4 +1,4 @@
-#Sun Oct 11 09:24:49 JST 2015
+#Sun May 29 11:14:32 JST 2016
 showLeadingIdeographicSpaces=false
 showEnclosedIdeographicSpaces=false
 showLeadingSpaces=false
@@ -14,11 +14,11 @@ showLineFeed=false
 AbstractTextEditor.Color.Foreground.SystemDefault=false
 showCarriageReturn=false
 AbstractTextEditor.Color.Foreground=255,255,255
-AbstractTextEditor.Color.SelectionBackground=128,0,255
+AbstractTextEditor.Color.SelectionBackground=128,128,128
 overviewRuler_migration=migrated_3.1
 showTrailingSpaces=false
 lineNumberRuler=true
-asOccurencesIndicationColor=138,0,138
+asOccurencesIndicationColor=100,100,100
 currentLineColor=0,0,0
 showWhitespaceCharacters=true
 AbstractTextEditor.Color.Background.SystemDefault=false
